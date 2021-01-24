@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - PlayerSpell/FireSpell
+  - Enemy/FireGolem
+  - Enemy/SpaceShip
+  - Enemy/OneEyeAlien
+  - Enemy/WaterBlob
+  - Undefined
+  - PlayerSpell/WaterSpell
+  - PlayerSpell/ElectricSpell
+  - Enemy/OneEyeAlienMax
+  - EnemySpawner
+  - PlayerSpell/Poison
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - EnemySpell
+  - PalyerSpell
+  - Tile
+  - WaterBlob
+  - One eyeAlien
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
